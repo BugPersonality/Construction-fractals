@@ -1,0 +1,10 @@
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley fern.csprojAssemblyReference.cache
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley_fern.Form1.resources
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley_fern.Properties.Resources.resources
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley fern.csproj.GenerateResource.cache
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley fern.csproj.CoreCompileInputs.cache
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\bin\Debug\Barnsley fern.exe.config
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\bin\Debug\Barnsley fern.exe
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\bin\Debug\Barnsley fern.pdb
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley fern.exe
+C:\C# Projects\Fractals\Barnsley fern\Barnsley fern\obj\Debug\Barnsley fern.pdb
