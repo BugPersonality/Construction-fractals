@@ -1,0 +1,10 @@
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\bin\Debug\Mondelbrot_Set.exe.config
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\bin\Debug\Mondelbrot_Set.exe
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\bin\Debug\Mondelbrot_Set.pdb
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.csprojAssemblyReference.cache
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.Form1.resources
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.Properties.Resources.resources
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.csproj.GenerateResource.cache
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.csproj.CoreCompileInputs.cache
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.exe
+C:\C# Projects\Mondelbrot_Set\Mondelbrot_Set\obj\Debug\Mondelbrot_Set.pdb
